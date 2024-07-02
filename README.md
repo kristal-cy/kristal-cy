@@ -1,7 +1,13 @@
 <div align="center">
-  <h1>Welcome to Crystal's Profile👋🔮</h1>
+  <h1>Welcome to Crystal's Github Space👋🔮</h1>
   <img src="https://github.com/kristal-cy/kristal-cy/assets/148411458/4157a8c2-dc03-4042-98e4-53badecda04c" alt="crysta_head">
 </div>
+
+<div align="center">
+  <h1>🌱 About me</h1>
+  <p>I am a passionate yet delightfully lazy developer and designer who values efficiency above all. I hate coding yet I find it very fun and exciting, but to be honest, I'm more into designing 🤪. 
+</p>
+
 
 
 
