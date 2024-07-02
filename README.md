@@ -40,17 +40,21 @@
 </div>
 
 <div class="center">
-    <h2> 🌐 Socials: </h2>
+    <b> 📫🌐 Socials & How to Reach Me </b>
     <a href="https://facebook.com/https://www.facebook.com/jadecrystal.sabadocerezo">
-        <img src="https://img.icons8.com/?size=100&id=p62ASPK2Kpqp&format=png&color=000000" alt="Facebook">
+        <img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" alt="Facebook">
     </a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/crystal-jade-cerezo-sabado/">
-        <img src="https://github.com/kristal-cy/kristal-cy/assets/148411458/363ed2be-4641-4030-846b-dd911f26168c" alt="LinkedIn">
+        <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn">
     </a>
+    <a href="input.crystal@gmail.com
+"><img src="https://img.icons8.com/?size=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Gmail"> 
+    </a>
+  
 </div>
 
 
-# 💻 Tech Stack:
+# <h2> 💻 Tech Stack: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
