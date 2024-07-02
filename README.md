@@ -20,7 +20,7 @@
 <div align="left">
 
 <h2>🔭 What I'm Currently Working On</h2>
-<p>....</p>
+<p><b>....</b></p>
 <h2>🐋 What I'm Currently Learning</h2>
 <p>
   <ul>
@@ -39,19 +39,6 @@
 </p>
 </div>
 
-<div class="center">
-    <h3> 📫🌐 Socials & How to Reach Me </h3> 
-    <a href="https://facebook.com/https://www.facebook.com/jadecrystal.sabadocerezo">
-        <img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" alt="Facebook">
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/crystal-jade-cerezo-sabado/">
-        <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn">
-    </a>
-    <a href="input.crystal@gmail.com
-"><img src="https://img.icons8.com/?size=100&id=CXYJjRfKlwI9&format=png&color=000000" alt="Gmail"> 
-    </a>
-  
-</div>
 
 
 # <h2> 💻 Tech Stack: 
