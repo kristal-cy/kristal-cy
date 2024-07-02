@@ -5,9 +5,17 @@
 
 <div align="center">
   <h1>🌱 About me</h1>
-  <p>I am a passionate yet delightfully lazy developer and designer who values efficiency above all. I hate coding yet I find it very fun and exciting, but to be honest, I'm more into designing 🤪. 
-</p>
-
+</div>
+<div>
+  <p>
+    I am a passionate yet delightfully lazy developer and designer who values efficiency above all. I hate coding yet I find it very fun and exciting, but to be honest, I'm more into designing 🤪. </p>
+  <p>
+    Still a beginner, so bear with me. I'm interested in making designs that give developers a headache—kidding! I'm into designing and coding, both give me chills and pressure. Don't expect high I don't like that. 
+  </p>
+  <p>
+    2nd Year IT student at PHINMA-University of Pangasinan, still undecided well, i guess let's find out next year!
+  </p>
+</div>
 
 
 
