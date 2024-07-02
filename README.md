@@ -1,5 +1,8 @@
-## Welcome to Crystal's Profile👋🔮
-![crysta_head](https://github.com/kristal-cy/kristal-cy/assets/148411458/4157a8c2-dc03-4042-98e4-53badecda04c)
+<div align="center">
+  <h1>Welcome to Crystal's Profile👋🔮</h1>
+  <img src="https://github.com/kristal-cy/kristal-cy/assets/148411458/4157a8c2-dc03-4042-98e4-53badecda04c" alt="crysta_head">
+</div>
+
 
 
 ## 🌐 Socials:
