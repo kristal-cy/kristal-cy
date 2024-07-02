@@ -22,14 +22,21 @@
 <h2>🔭 What I'm Currently Working On</h2>
 <p>....</p>
 <h2>🐋 What I'm Currently Learning</h2>
-<p>- Kotlin and Git </p>
+<p>
+  <ul>
+  <li><b> Kotlin and Git </b></li>
+  </ul>
+</p>
 <h2>💬 Ask Me About</h2>
-<p>- UI/UX Design 
-- Web design and development 
-- Graphic design and Illustration
-- Balancing academic life with freelancing, business and personal projects. 
-- Anything else you're curious about. I'm always up for a good discussion!</p>
-  
+<p>
+  <ul>
+<li><b> UI/UX Design </b></li>
+<li> <b> Web design and development </b> </li>
+<li> <b> Graphic design and Illustration </b> </li>
+<li> <b> Balancing academic life with freelancing, business and personal projects. </b> </li>
+<li> <b> Anything else you're curious about. I'm always up for a good discussion! </b></li>
+  </ul>
+</p>
 </div>
 
 
