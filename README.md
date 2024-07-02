@@ -13,10 +13,24 @@
     Still a beginner, so bear with me. I'm interested in making designs that give developers a headache—kidding! I'm into designing and coding, both give me chills and pressure. Don't expect high I don't like that. 
   </p>
   <p>
-    2nd Year IT student at PHINMA-University of Pangasinan, still undecided well, i guess let's find out next year!
+    A 2nd Year IT student at PHINMA-University of Pangasinan, still undecided on what path to take, so I guess let's find out next year!
   </p>
 </div>
 
+<div align="left">
+
+<h2>🔭 What I'm Currently Working On</h2>
+<p>....</p>
+<h2>🐋 What I'm Currently Learning</h2>
+<p>- Kotlin and Git </p>
+<h2>💬 Ask Me About</h2>
+<p>- UI/UX Design 
+- Web design and development 
+- Graphic design and Illustration
+- Balancing academic life with freelancing, business and personal projects. 
+- Anything else you're curious about. I'm always up for a good discussion!</p>
+  
+</div>
 
 
 ## 🌐 Socials:
