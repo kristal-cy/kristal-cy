@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile Image]("C:\Users\Crystal\Downloads\crysta_head.png")
 
 
 ## 🌐 Socials:
