@@ -40,7 +40,7 @@
 </div>
 
 <div class="center">
-    <b> 📫🌐 Socials & How to Reach Me </b>
+    <h3> 📫🌐 Socials & How to Reach Me </h3> 
     <a href="https://facebook.com/https://www.facebook.com/jadecrystal.sabadocerezo">
         <img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" alt="Facebook">
     </a>
