@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Crystal's Profile👋🔮
 ![crysta_head](https://github.com/kristal-cy/kristal-cy/assets/148411458/4157a8c2-dc03-4042-98e4-53badecda04c)
 
 
