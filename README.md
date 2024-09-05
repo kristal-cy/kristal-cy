@@ -24,7 +24,7 @@
 <h2>🐋 What I'm Currently Learning</h2>
 <p>
   <ul>
-  <li><b> Kotlin and Git </b></li>
+  <li><b> Flutter and Git </b></li>
   </ul>
 </p>
 <h2>💬 Ask Me About</h2>
