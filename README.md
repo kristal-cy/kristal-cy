@@ -20,7 +20,7 @@
 <div align="left">
 
 <h2>🔭 What I'm Currently Working On</h2>
-<p><b>....</b></p>
+<p><b> Final Project</b></p>
 <h2>🐋 What I'm Currently Learning</h2>
 <p>
   <ul>
