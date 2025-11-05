@@ -1,8 +1,3 @@
-<div align="center">
-  <h1>Welcome to Crystal's Github Space👋🔮</h1>
-  <img src="https://github.com/kristal-cy/kristal-cy/assets/148411458/4157a8c2-dc03-4042-98e4-53badecda04c" alt="crysta_head">
-</div>
-
 <div align="left">
   <h1>🌱 About Me</h1>
 </div>
