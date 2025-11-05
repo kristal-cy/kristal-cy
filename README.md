@@ -3,7 +3,7 @@
   <img src="https://github.com/kristal-cy/kristal-cy/assets/148411458/4157a8c2-dc03-4042-98e4-53badecda04c" alt="crysta_head">
 </div>
 
-<div align="center">
+<div align="left">
   <h1>🌱 About Me</h1>
 </div>
 
@@ -35,14 +35,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristal-cy&theme=dark&hide_border=false"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristal-cy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   </p>
-</div>
-
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kristal-cy&icon=0&color=0">
-  </a>
 </div>
 
 
