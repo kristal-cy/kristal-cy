@@ -9,10 +9,7 @@
 
 <div>
   <p>
-    Hi, I’m Cale — a Designer & Developer driven by curiosity and creativity. Exploring ideas, learning from every project, and building with purpose.
-  </p>
-  <p>
-    I’m a passionate yet delightfully lazy creator who values efficiency above all. I hate coding, yet somehow find it fun and exciting — but to be honest, I’m more into designing 🤪.
+    Hi, I’m Crystal — a Designer & Developer driven by curiosity and creativity. Exploring ideas, learning from every project, and building with purpose.
   </p>
   <p>
     I’m a 3rd Year IT student at PHINMA–University of Pangasinan, currently on the path of <b>System Development</b>. Still figuring things out, but enjoying every step of the journey.
