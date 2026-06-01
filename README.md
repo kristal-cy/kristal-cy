@@ -186,6 +186,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff69b4,100:7fffd4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ff69b4,100:7fffd4" />
 
 </div>
