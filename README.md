@@ -3,7 +3,7 @@
   <h2>🌙 Designer & Developer</h2>
 
   <p>
-    4th Year IT Student • System Development • UI/UX Design • Frontend Development
+    4th Year IT Student • System Development • UI/UX Design • Freelancer
   </p>
 
 </div>
@@ -186,6 +186,6 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff69b4,100:7fffd4" />
 
 </div>
