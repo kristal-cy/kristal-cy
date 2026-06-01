@@ -1,133 +1,127 @@
+```html id="github-readme-dark-style"
 <div align="center">
 
-  <h1>Hi, I’m Crystal Jade ✨</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=header&text=Crystal%20Jade&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-  <h3>Designer • Developer • 4th Year IT Student</h3>
+  <h2>🌙 Designer & Developer</h2>
 
   <p>
-    Welcome to my GitHub space — where creativity meets technology.
+    4th Year IT Student • System Development • UI/UX Design • Frontend Development
   </p>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
-  <h2>🌱 About Me</h2>
+  <h3>🟪 About Me</h3>
 
   <p>
-    Hi, I’m <b>Crystal</b> — a Designer & Developer driven by curiosity, creativity, and growth.
+    Hi, I’m <b>Crystal Jade</b> — a Designer & Developer driven by curiosity, creativity, and growth.
     I enjoy exploring ideas, learning from every project, and building digital experiences with purpose.
   </p>
 
   <p>
     I’m a <b>4th Year IT student</b> at <b>PHINMA–University of Pangasinan</b>,
-    currently on the path of <b>System Development</b>.
+    currently focused on <b>System Development</b>.
     Still figuring things out, but enjoying every step of the journey.
   </p>
 
   <p>
-    I love working on projects that combine <b>design, development, usability, and meaningful solutions</b>.
-    Whether it’s a website, mobile app, system, or creative digital project, I always aim to make it simple,
-    useful, and visually pleasing.
+    I love creating projects that combine <b>design, development, usability, and meaningful solutions</b>.
   </p>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
-  <h2>💻 Tech Stack</h2>
-
-  <h3>Languages</h3>
+  <h3>🟪 My Daily Driver</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://skillicons.dev/icons?i=apple,vscode,github,git" />
+  </p>
+
+</div>
+
+---
+
+<div align="left">
+
+  <h3>🟪 Tech Stack</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </p>
 
-  <h3>Frameworks & Development</h3>
-
   <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  </p>
-
-  <h3>Tools & Platforms</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
-  </p>
-
-  <h3>Design</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+    <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   </p>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
-  <h2>✨ What I Do</h2>
-
-  <p>
-    UI/UX Design • Frontend Development • Mobile App Development • Web Design • System Development • Creative Digital Projects
-  </p>
+  <h3>🟪 Languages & Tools I Have Placed My Hands On</h3>
 
   <p>
-    I enjoy turning ideas into clean, functional, and user-friendly digital experiences.
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flutter,dart,supabase,sqlite,mysql,git,github,vscode,figma,notion,vercel,postman,canva,xcode" />
   </p>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
-  <h2>🚀 Current Focus</h2>
-
-  <p>
-    🌸 Improving my frontend and mobile development skills
-  </p>
+  <h3>🟪 What I Do</h3>
 
   <p>
-    🌸 Building real-world projects and systems
-  </p>
-
-  <p>
-    🌸 Learning more about clean UI, clean code, and better system flow
-  </p>
-
-  <p>
-    🌸 Growing as a developer, designer, and future IT professional
+    ✦ UI/UX Design<br>
+    ✦ Frontend Development<br>
+    ✦ Mobile App Development<br>
+    ✦ Web Design & Development<br>
+    ✦ System Development<br>
+    ✦ Creative Digital Projects
   </p>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
-  <h2>🦈 GitHub Achievement</h2>
+  <h3>🟪 Current Focus</h3>
 
   <p>
-    <b>Pull Shark Unlocked</b>
+    ✦ Improving my frontend and mobile development skills<br>
+    ✦ Building real-world projects and systems<br>
+    ✦ Learning clean UI, clean code, and better system flow<br>
+    ✦ Growing as a developer, designer, and future IT professional
+  </p>
+
+</div>
+
+---
+
+<div align="left">
+
+  <h3>🟪 GitHub Achievement</h3>
+
+  <p>
+    🦈 <b>Pull Shark Unlocked</b>
   </p>
 
   <p>
@@ -138,21 +132,36 @@
 
 ---
 
+<div align="left">
+
+  <h3>🟪 Analytics</h3>
+
+</div>
+
 <div align="center">
 
-  <h2>📊 GitHub Stats</h2>
-
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kristal-cy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kristal-cy&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kristal-cy&theme=radical&hide_border=true" />
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristal-cy&theme=tokyonight&hide_border=false">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristal-cy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </p>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristal-cy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  </p>
+</div>
+
+---
+
+<div align="left">
+
+  <h3>🟪 My Contributions</h3>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kristal-cy&theme=redical&hide_border=true&area=true" />
 
 </div>
 
@@ -160,14 +169,11 @@
 
 <div align="center">
 
-  <h2>🌐 Connect With Me</h2>
+  <h3>🌐 Connect With Me</h3>
 
   <p>
     <a href="https://github.com/kristal-cy">
       <img src="https://img.shields.io/badge/GitHub-kristal--cy-181717?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://crystaljadesabado.com">
-      <img src="https://img.shields.io/badge/Portfolio-crystaljadesabado.com-FF69B4?style=for-the-badge">
     </a>
   </p>
 
@@ -180,3 +186,10 @@
   <h3>“Designing with creativity, building with purpose.” ✨</h3>
 
 </div>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
+
+</div>
+```
