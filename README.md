@@ -1,6 +1,6 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Crystal%20Jade%20C.%20Sabado&fontSize=35&fontColor=ffffff&animation=twinkling&color=0:ff69b4,100:7fffd4" />
-  <h2>🌙 Designer & Developer</h2>
+  <h2>Designer & Developer</h2>
 
   <p>
     4th Year IT Student • System Development • UI/UX Design • Freelancer
