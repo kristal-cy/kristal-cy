@@ -1,4 +1,3 @@
-```html id="github-readme-dark-style"
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=160&section=header&text=Crystal%20Jade&fontSize=45&fontColor=ffffff&animation=fadeIn" />
@@ -192,4 +191,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
 
 </div>
-```
