@@ -17,7 +17,7 @@
   <h3>🟪 About Me</h3>
 
   <p>
-    Hi, I’m <b>Crystal Jade</b> — a Designer & Developer driven by curiosity, creativity, and growth.
+    Hi, I’m <b>Crystal Jade C. Sabado</b> — a Designer & Developer driven by curiosity, creativity, and growth.
     I enjoy exploring ideas, learning from every project, and building digital experiences with purpose.
   </p>
 
