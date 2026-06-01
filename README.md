@@ -141,6 +141,9 @@
     <a href="https://github.com/kristal-cy">
       <img src="https://img.shields.io/badge/GitHub-kristal--cy-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
+    <a href="https://crystaljadesabado.com">
+      <img src="https://img.shields.io/badge/Website-crystaljadesabado.com-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white">
+    </a>
   </p>
 
 </div>
