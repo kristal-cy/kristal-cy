@@ -12,7 +12,7 @@
 
 <div align="left">
 
-  <h3>🟪 About Me</h3>
+  <h3>About Me</h3>
 
   <p>
     Hi, I’m <b>Crystal Jade C. Sabado</b> — a Designer & Developer driven by curiosity, creativity, and growth.
@@ -35,7 +35,7 @@
 
 <div align="left">
 
-  <h3>🟪 My Daily Driver</h3>
+  <h3>My Daily Driver</h3>
 
   <p>
     <img src="https://skillicons.dev/icons?i=apple,vscode,github,git" />
@@ -47,7 +47,7 @@
 
 <div align="left">
 
-  <h3>🟪 Tech Stack</h3>
+  <h3>Tech Stack</h3>
 
   <p>
     <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -71,7 +71,7 @@
 
 <div align="left">
 
-  <h3>🟪 Languages & Tools I Have Placed My Hands On</h3>
+  <h3>Languages & Tools I Have Placed My Hands On</h3>
 
   <p>
     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flutter,dart,supabase,sqlite,mysql,git,github,vscode,figma,notion,vercel,postman,canva,xcode" />
@@ -83,7 +83,7 @@
 
 <div align="left">
 
-  <h3>🟪 What I Do</h3>
+  <h3>What I Do</h3>
 
   <p>
     ✦ UI/UX Design<br>
@@ -100,38 +100,7 @@
 
 <div align="left">
 
-  <h3>🟪 Current Focus</h3>
-
-  <p>
-    ✦ Improving my frontend and mobile development skills<br>
-    ✦ Building real-world projects and systems<br>
-    ✦ Learning clean UI, clean code, and better system flow<br>
-    ✦ Growing as a developer, designer, and future IT professional
-  </p>
-
-</div>
-
----
-
-<div align="left">
-
-  <h3>🟪 GitHub Achievement</h3>
-
-  <p>
-    🦈 <b>Pull Shark Unlocked</b>
-  </p>
-
-  <p>
-    Opened pull requests that were successfully merged — a small badge, but a meaningful milestone in my developer journey.
-  </p>
-
-</div>
-
----
-
-<div align="left">
-
-  <h3>🟪 Analytics</h3>
+  <h3>Analytics</h3>
 
 </div>
 
@@ -152,7 +121,7 @@
 
 <div align="left">
 
-  <h3>🟪 My Contributions</h3>
+  <h3>My Contributions</h3>
 
 </div>
 
