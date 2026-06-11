@@ -107,11 +107,6 @@
 <div align="center">
 
   <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kristal-cy&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kristal-cy&theme=radical&hide_border=true" />
-  </p>
-
-  <p>
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristal-cy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </p>
 
