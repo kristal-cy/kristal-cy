@@ -98,19 +98,7 @@
 
 ---
 
-<div align="left">
-
-  <h3>Analytics</h3>
-
-</div>
-
-<div align="center">
-
-  <p>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristal-cy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  </p>
-
-</div>
+<div align="left"
 
 ---
 
